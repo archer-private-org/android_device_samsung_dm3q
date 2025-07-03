@@ -6,6 +6,6 @@
 ## To build it: 
 ```bash
 . build/envsetup.sh
-lunch twrp_dm3q-eng
+lunch twrp_dm3q-ap2a-eng
 mka recoveryimage -j$(nproc --all)
 ```
